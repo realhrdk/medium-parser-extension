@@ -9,7 +9,7 @@ const menuOptions = {
 const redirectOptions = {
   google: 'Google Web Cache',
   readmedium: 'Read-Medium (https://readmedium.com)',
-  freedium: 'Freedium (https://freedium.cfd)',
+  freedium: 'Freedium (https://freedium-mirror.cfd)',
   archive_today: 'Archive.today (https://archive.today)',
   archive_is: 'Archive.is (https://archive.is)',
   proxy: 'Proxy API (https://medium-parser.vercel.app/)',

@@ -14,7 +14,7 @@ removed the Unrecognized manifest key 'browser_specific_settings'.
 
 added mail support link
 #### 1.5.0
-Added support for [https://freedium.cfd//](https://freedium.cfd//)
+Added support for [https://freedium-mirror.cfd/](https://freedium-mirror.cfd/)
 
 Added support link to resolve the issues.
 

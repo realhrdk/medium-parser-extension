@@ -9,7 +9,7 @@ const urlOptions = {
   },
   freedium: {
     text: 'Open in Freedium',
-    uri: `https://freedium.cfd/#{url}#`,
+    uri: `https://freedium-mirror.cfd/#{url}#`,
   },
   archive_today: {
     text: 'Open in Archive.today',
